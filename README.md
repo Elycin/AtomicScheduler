@@ -10,9 +10,11 @@ Cron based scheduler for C# designed for multi-server applications.
 ### Working Example
 ```csharp
 // Initialize Redis Driver
-var driver = new RedisAtomicDriver("localhost:6379"); // Connection string, or one of the inheritable:
-var driver = new RedisAtomicDriver(redisManagerPool); // Service Stack IRedisManagerPool
-var driver = new RedisAtomicDriver(redisClient); // Service Stack IRedisClient
+var driver = new RedisAtomicDriver("localhost:6379"); // Connection string
+
+// Additionally, you can use one of the following from ServiceStack.Redis
+// var driver = new RedisAtomicDriver(redisManagerPool); // Service Stack IRedisManagerPool
+// var driver = new RedisAtomicDriver(redisClient); // Service Stack IRedisClient
 
 // Initialize new Scheduler
 var scheduler = new Scheduler();
