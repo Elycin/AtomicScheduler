@@ -1,6 +1,0 @@
-C:\Users\elyci\source\repos\AtomicScheduler\AtomicScheduler\bin\Debug\netcoreapp3.1\AtomicScheduler.deps.json
-C:\Users\elyci\source\repos\AtomicScheduler\AtomicScheduler\bin\Debug\netcoreapp3.1\AtomicScheduler.dll
-C:\Users\elyci\source\repos\AtomicScheduler\AtomicScheduler\obj\Debug\netcoreapp3.1\AtomicScheduler.csprojAssemblyReference.cache
-C:\Users\elyci\source\repos\AtomicScheduler\AtomicScheduler\obj\Debug\netcoreapp3.1\AtomicScheduler.AssemblyInfoInputs.cache
-C:\Users\elyci\source\repos\AtomicScheduler\AtomicScheduler\obj\Debug\netcoreapp3.1\AtomicScheduler.AssemblyInfo.cs
-C:\Users\elyci\source\repos\AtomicScheduler\AtomicScheduler\obj\Debug\netcoreapp3.1\AtomicScheduler.csproj.CoreCompileInputs.cache
