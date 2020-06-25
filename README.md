@@ -48,3 +48,6 @@ var task = new ScheduledTask {
 
 ### Contributing / Building Drivers
 If you would like to add support for a medium that can interface with the scheduler, please extend the `IAtomicDriver` interface and make a pull request.
+
+### License
+This project is MIT Licensed. Feel free to do whatever with it as you please.
